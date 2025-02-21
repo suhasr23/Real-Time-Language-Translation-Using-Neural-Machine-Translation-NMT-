@@ -1,5 +1,5 @@
 # Real-Time-Language-Translation-Using-Neural-Machine-Translation-NMT-
-To run this file install modules
+To run this file install modules below
 
 pip install transformers sentencepiece torch gradio
 
